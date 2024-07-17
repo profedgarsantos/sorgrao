@@ -1,0 +1,6 @@
+{
+    "i18n-easy.localesPaths": [
+        "resources/lang",
+        "public/tcpdf/sorgrao/lang"
+    ]
+}
